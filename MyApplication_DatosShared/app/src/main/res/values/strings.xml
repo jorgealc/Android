@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application_DatosShared</string>
+    <string name="textView">Ingrese el e-mail</string>
+    <string name="button">EJECUTAR</string>
+</resources>
